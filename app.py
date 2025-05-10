@@ -30,7 +30,7 @@ state = RecipeState()
 
 # User input section
 def user_input():
-    st.title("Recipe Assistant")
+    st.title("SmartChef AI")
 
     # User inputs
     ingredients_input = st.text_input("Enter ingredients separated by commas")
